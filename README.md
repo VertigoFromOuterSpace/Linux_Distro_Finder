@@ -1,0 +1,1 @@
+Encontre seu distro linux
