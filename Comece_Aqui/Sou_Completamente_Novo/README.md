@@ -1,21 +1,22 @@
-# De qual sistema você vem?
+# 🌱 De qual sistema você vem?
 
-Se você está começando agora no mundo Linux, escolha de qual sistema você vem para receber recomendações com uma curva de aprendizado mais suave.
+Como iniciante no Linux, é importante escolher uma distribuição que facilite sua transição do sistema operacional que você já conhece.
 
-- `Venho_do_Windows/`
-- `Venho_do_macOS/`
-- `Nao_importa_quero_uma_experiencia_Linux_popular/`
+## 🪟 [Venho do Windows](./Venho_do_Windows/)
+- Estou acostumado com a interface do Windows
+- Quero algo familiar mas moderno
+- Preciso de boa compatibilidade com software
 
-Dica: todas as distros recomendadas aqui priorizam facilidade de uso, boa loja de apps e ampla documentação.
+## 🍎 [Venho do macOS](./Venho_do_macOS/)
+- Valorizo design elegante e simplicidade
+- Estou acostumado com a experiência macOS
+- Quero algo visualmente atrativo
 
-```
-  ____                 _                _             _           
- / ___|___  _ __   ___| |__   ___  _ __(_) ___  _ __ | | ___  ___ 
-| |   / _ \| '_ \ / __| '_ \ / _ \| '__| |/ _ \| '_ \| |/ _ \/ __|
-| |__| (_) | | | | (__| | | | (_) | |  | | (_) | | | | |  __/\__ \
- \____\___/|_| |_|\___|_| |_|\___/|_|  |_|\___/|_| |_|_|\___||___/
-```
+## 🎲 [Não importa, quero uma experiência Linux popular](./Nao_importa_quero_uma_experiencia_Linux_popular/)
+- Quero experimentar o "verdadeiro" Linux
+- Não me importo com semelhanças visuais
+- Quero a distro mais recomendada para iniciantes
 
-<!-- Screenshot placeholder:
-	Adicione aqui um print comparando Shells (ex.: Windows-like vs macOS-like) para orientar a escolha.
-	Exemplo: ./assets/novato-comparativo.png -->
+---
+
+*💡 Dica: Se você usa ambos os sistemas ou tem experiência limitada, escolha a opção "experiência Linux popular" para ter a melhor introdução ao mundo Linux.*

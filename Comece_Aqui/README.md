@@ -1,17 +1,22 @@
-# Qual seu nível de experiência com Linux?
+# 🎯 Qual seu nível de experiência com Linux?
 
-Este é o ponto de partida. Escolha o caminho que melhor descreve você e siga as subpastas até chegar a uma recomendação de distro específica.
+Seja honesto sobre sua experiência com Linux para receber a recomendação mais adequada:
 
-- `Sou_Completamente_Novo/` — Se é sua primeira vez no Linux
-- `Ja_usei_Linux_antes_e_quero_algo_diferente/` — Se já tem alguma experiência e busca outras prioridades
-- `Sou_Experiente_e_Quero_Controle_Total/` — Se quer montar do seu jeito ou tem objetivos bem específicos
+## 🌱 [Sou Completamente Novo](./Sou_Completamente_Novo/README.md)
+- Nunca usei Linux antes
+- Venho do Windows ou macOS
+- Quero uma experiência amigável e intuitiva
 
-Ao final de cada trilha, você encontrará um README com:
-- Introdução da distro e público-alvo
-- Pontos positivos e negativos
-- Arte ASCII temática
-- Um comentário indicando onde inserir um print da tela principal
+## 🔧 [Já usei Linux antes e quero algo diferente](./Ja_usei_Linux_antes_e_quero_algo_diferente/README.md)
+- Já experimentei Ubuntu, Mint ou outras distros populares
+- Quero explorar novas opções
+- Tenho necessidades específicas (estabilidade, software recente, etc.)
 
-<!-- Screenshot placeholder da seção:
-	Coloque aqui, se quiser, uma captura de como organizar os prints nas folhas.
-	Exemplo: ../assets/fluxo.png -->
+## 🚀 [Sou Experiente e Quero Controle Total](./Sou_Experiente_e_Quero_Controle_Total/README.md)
+- Tenho experiência avançada com Linux
+- Quero máximo controle sobre o sistema
+- Procuro distros para propósitos específicos ou construção personalizada
+
+---
+
+*💡 Dica: Se estiver em dúvida entre duas categorias, escolha a mais conservadora para ter uma experiência mais suave.*

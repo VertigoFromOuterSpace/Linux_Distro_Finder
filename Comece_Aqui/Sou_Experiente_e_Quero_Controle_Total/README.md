@@ -1,12 +1,17 @@
-# Qual seu objetivo principal?
+# 🚀 Qual seu objetivo principal?
 
-Escolha o caminho que mais combina com seus objetivos e nível de controle desejado:
+Você domina Linux e quer máximo controle. Vamos encontrar a distribuição perfeita para seus objetivos avançados:
 
-- `Construir_meu_sistema_do_zero/` — montagem manual e máxima personalização
-- `Procuro_um_sistema_para_propositos_especificos/` — segurança, servidores, conceitos diferentes
+## 🔨 [Construir meu sistema do zero](./Construir_meu_sistema_do_zero/)
+- Quero compilar e otimizar tudo pessoalmente
+- Preciso de máximo controle sobre cada componente
+- Busco performance extrema ou sistema minimalista
 
-Cada trilha leva a recomendações específicas com prós e contras detalhados.
+## 🎯 [Procuro um sistema para propósitos específicos](./Procuro_um_sistema_para_propositos_especificos/)
+- Tenho necessidades muito específicas (segurança, servers, etc.)
+- Quero uma distribuição especializada
+- Busco ferramentas únicas ou arquiteturas diferentes
 
-<!-- Screenshot placeholder:
-	Adicione aqui um diagrama de alto nível das trilhas avançadas.
-	Exemplo: ./assets/avancado-fluxo.png -->
+---
+
+*💡 Dica: Estas opções são para usuários muito experientes. Se tem dúvida sobre sua experiência, considere voltar às seções anteriores.*
